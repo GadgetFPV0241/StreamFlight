@@ -1,5 +1,5 @@
 {
-  "latestVersion": "2.3.0",
+  "latestVersion": "2.3.1",
   "downloadUrl": "https://flightsim.to/addon/98415/streamflight-your-obs-streaming-companion",
-  "releaseNotes": "Added Control Input Overlay."
+  "releaseNotes": "Minor Bug Fixes. Improved Control Input Overlay stability."
 }
