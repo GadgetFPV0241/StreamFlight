@@ -1,5 +1,5 @@
 {
   "latestVersion": "2.3.2",
   "downloadUrl": "https://flightsim.to/addon/98415/streamflight-your-obs-streaming-companion",
-  "releaseNotes": "Minor Bug Fixes. Improved Control Input Overlay stability."
+  "releaseNotes": "Added Swap DEPARTURE/ARRIVAL Airports for quick return-leg and turnaround operations. Added optional Invert Pitch Indicator toggle for the Control Input Overlay with persistent settings and tooltip support."
 }
