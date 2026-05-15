@@ -1,5 +1,5 @@
 {
-  "latestVersion": "2.3.2",
+  "latestVersion": "2.3.3",
   "downloadUrl": "https://flightsim.to/addon/98415/streamflight-your-obs-streaming-companion",
-  "releaseNotes": "Added Swap DEPARTURE/ARRIVAL Airports for quick return-leg and turnaround operations. Added optional Invert Pitch Indicator toggle for the Control Input Overlay with persistent settings and tooltip support."
+  "releaseNotes": "Completely redesigned ETE/ETA system using DTG and groundspeed for improved accuracy across all aircraft types. Added improved PREFLIGHT, LANDING and TAXI IN handling with enhanced arrival and taxi behaviour."
 }
