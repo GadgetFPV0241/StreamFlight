@@ -1,5 +1,5 @@
 {
-  "latestVersion": "2.3.3",
+  "latestVersion": "2.3.4",
   "downloadUrl": "https://flightsim.to/addon/98415/streamflight-your-obs-streaming-companion",
-  "releaseNotes": "Completely redesigned ETE/ETA system using DTG and groundspeed for improved accuracy across all aircraft types. Added improved PREFLIGHT, LANDING and TAXI IN handling with enhanced arrival and taxi behaviour."
+  "releaseNotes": "Improved ETE/ETA accuracy, Progress Bar recovery and Multi-Monitor GamerMode Overlay support."
 }
