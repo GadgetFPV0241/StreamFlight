@@ -1,5 +1,5 @@
 {
-  "latestVersion": "2.3.4",
+  "latestVersion": "2.3.5",
   "downloadUrl": "https://flightsim.to/addon/98415/streamflight-your-obs-streaming-companion",
-  "releaseNotes": "Improved ETE/ETA accuracy, Progress Bar recovery and Multi-Monitor GamerMode Overlay support."
+  "releaseNotes": "Added thousands separators to altitude and vertical speed values. OBS Browser Source ports moved from 8080-8083 to 38080-38083. Browser Source users must re-copy their OBS URLs after updating."
 }
