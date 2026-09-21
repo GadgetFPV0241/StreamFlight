@@ -1,5 +1,5 @@
 {
-  "latestVersion": "2.3.5",
+  "latestVersion": "2.3.6",
   "downloadUrl": "https://flightsim.to/addon/98415/streamflight-your-obs-streaming-companion",
-  "releaseNotes": "Added thousands separators to altitude and vertical speed values. OBS Browser Source ports moved from 8080-8083 to 38080-38083. Browser Source users must re-copy their OBS URLs after updating."
+  "releaseNotes": "Final freeware release of StreamFlight. Includes maintenance and reliability improvements, updated release packaging, and an upgrade path to the newly released StreamFlight 3. StreamFlight 2.3.6 will remain available as the free legacy version."
 }
