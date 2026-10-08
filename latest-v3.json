@@ -1,5 +1,7 @@
+
 {
-  "latestVersion": "3.0.1",
+  "latestVersion": "3.1.0",
   "downloadUrl": "https://gadgetfpv.co.uk/streamflight/",
-  "releaseNotes": "StreamFlight 3.0.1 adds multi-monitor fixes, a new update/download experience, and Stream Deck compatibility for camera controls."
+  "releaseNotes": "StreamFlight 3.1.0 introduces the integrated Flight Planner, filter by airline, aircraft, distance and flight duration, and select flights for SimBrief planning."
 }
+
