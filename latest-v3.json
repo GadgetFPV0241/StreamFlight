@@ -1,5 +1,5 @@
 {
-  "latestVersion": "3.1.1",
+  "latestVersion": "3.1.2",
   "downloadUrl": "https://gadgetfpv.co.uk/streamflight/",
-  "releaseNotes": "StreamFlight 3.1.1 improves the Flight Planner with enhanced airline and aircraft selection, searchable dropdowns, keyboard navigation, and updated aircraft catalogue support."
+  "releaseNotes": "StreamFlight 3.1.2, Flight Planner maintenance release. Improves Flight Planner dropdowns, aircraft selection, and keyboard navigation."
 }
