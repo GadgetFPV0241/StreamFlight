@@ -1,5 +1,6 @@
 {
-  "latestVersion": "3.1.2",
+  "latestVersion": "3.1.5",
   "downloadUrl": "https://gadgetfpv.co.uk/streamflight/",
-  "releaseNotes": "StreamFlight 3.1.2, Flight Planner maintenance release. Improves Flight Planner dropdowns, aircraft selection, and keyboard navigation."
+  "releaseNotes": "StreamFlight 3.1.5 introduces the Flight Information Display System (FIDS), featuring live VATSIM and IVAO Departures and dynamic Arrivals boards, OBS and Gamer Mode compatibility."
 }
+
