@@ -1,6 +1,5 @@
 {
-  "latestVersion": "3.1.5",
+  "latestVersion": "3.1.6",
   "downloadUrl": "https://gadgetfpv.co.uk/streamflight/",
-  "releaseNotes": "StreamFlight 3.1.5 introduces the Flight Information Display System (FIDS), featuring live VATSIM and IVAO Departures and dynamic Arrivals boards, OBS and Gamer Mode compatibility."
+  "releaseNotes": "StreamFlight 3.1.6 adds automatic GSX pushback detection, Passenger Manifest reset, improved flight-phase recovery, FIDS traffic and arrival enhancements, and updated documentation."
 }
-
