@@ -1,5 +1,5 @@
 {
-  "latestVersion": "3.1.6",
+  "latestVersion": "3.1.7",
   "downloadUrl": "https://gadgetfpv.co.uk/streamflight/",
-  "releaseNotes": "StreamFlight 3.1.6 adds automatic GSX pushback detection, Passenger Manifest reset, improved flight-phase recovery, FIDS traffic and arrival enhancements, and updated documentation."
+  "releaseNotes": "Introduces StreamFlight Live with Twitch integration, flight announcements, Passenger Manifest, Landing Predictions, Dynamic Zoom, SimBrief refinements and improved ETA/ETE handling."
 }
