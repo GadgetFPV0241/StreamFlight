@@ -1,5 +1,5 @@
 {
-  "latestVersion": "3.1.7",
+  "latestVersion": "3.1.8",
   "downloadUrl": "https://gadgetfpv.co.uk/streamflight/",
-  "releaseNotes": "Introduces StreamFlight Live with Twitch integration, flight announcements, Passenger Manifest, Landing Predictions, Dynamic Zoom, SimBrief refinements and improved ETA/ETE handling."
+  "releaseNotes": "StreamFlight 3.1.8 fixes missing Landing Rate Browser Source graphics in OBS."
 }
